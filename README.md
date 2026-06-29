@@ -1,16 +1,23 @@
-## Hi there 👋
+# Terry Cundiff
 
-<!--
-**sharp1/sharp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cleared Cloud Security Engineer focused on AWS security, Terraform, IAM, VPC segmentation, monitoring, encryption, and RMF/NIST-aligned control implementation.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Secure AWS infrastructure baselines with Terraform
+- Private-by-default VPC architecture
+- IAM/SSM-first administration with no inbound SSH
+- CloudTrail, AWS Config, CloudWatch, KMS, and S3 encryption controls
+- AWS Certified Security – Specialty scheduled for September 2026
+
+## Featured Projects
+
+### Secure AWS Infrastructure Baseline
+Terraform-based AWS security baseline with multi-AZ VPC segmentation, IAM/SSM access, monitoring, audit logging, KMS, and encryption controls.
+
+### AWS VPC Secure Baseline
+Private-by-default VPC design with public, application, and data tiers.
+
+### Terraform Static Site
+CloudFront + private S3 origin using OAI, S3 Block Public Access, and restrictive bucket policies.
+
